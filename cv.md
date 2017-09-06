@@ -5,8 +5,13 @@ CV  Panagiotis Agapiou
 
 EDUCATION
 ---------
-* (2013-2017) BSc in International European and Economic Studies, University of Cyprus, Nicosia
+* (2013-2017) BSc in International European and Economic Studies
+      * University of Cyprus
+      * Overall GPA: 8.08/10
+      * Dissertation in Intergenerational Income Mobility in Cyprus
+                                    
 * (2008-2011) Laniteio Lyceum B΄, Limassol
+      * Overall GPA:  18.67/20
 
 EMPLOYMENT HISTORY
 ------------------
@@ -31,12 +36,17 @@ COMPUTER SKILLS
 * ECDL (Successfully passed all seven modules )
 * Basic Knowledge on statistical packages STATA, Eviews and SPSS
 
+ACCOUNTING SKILLS
+-----------------
+* Level 1 of LCCI: Certificate in Book-keeping 
+* Level 2 of LCCI: Certificate in Book-keeping and Accounts 
+
 OTHER EXPERIENCES - ACTIVITIES
 ------------------------------
+* Erasmus+ Mobility Program: Universidad Carlos III De Madrid (Spring Semester 2015/16)
 * Comenius Project Meeting held at I.I.S.S. Des Ambrois – Oulx – Italy between 26 and 30 October 2010
 * Second praise from Cyprus National Commission to the contest “Equal Opportunities for All”, for students
 * Piano Degrees
-
 
 
 Note : In case you need any certifications/references I can send them upon request.
