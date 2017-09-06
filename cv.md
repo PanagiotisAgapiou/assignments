@@ -6,12 +6,12 @@ CV  Panagiotis Agapiou
 EDUCATION
 ---------
 * (2013-2017) BSc in International European and Economic Studies
-      * University of Cyprus
-      * Overall GPA: 8.08/10
-      * Dissertation in Intergenerational Income Mobility in Cyprus
+       * University of Cyprus
+       * Overall GPA: 8.08/10
+       * Dissertation in Intergenerational Income Mobility in Cyprus
                                     
 * (2008-2011) Laniteio Lyceum B΄, Limassol
-      * Overall GPA:  18.67/20
+       * Overall GPA:  18.67/20
 
 EMPLOYMENT HISTORY
 ------------------
