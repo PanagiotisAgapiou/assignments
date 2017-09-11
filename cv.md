@@ -5,9 +5,11 @@ CV  Panagiotis Agapiou
 
 EDUCATION
 ---------
-* (2013-2017) BSc in International European and Economic Studies, University of Cyprus, Nicosia  (Overall GPA: 8.1 out of 10)
+* (2013-2017) BSc in International European and Economic Studies, University of Cyprus, Nicosia  
+> Overall GPA: 8.1 out of 10
                             
-* (2008-2011) Laniteio Lyceum B΄, Limassol  (Overall GPA: 18.67 out of 20)
+* (2008-2011) Laniteio Lyceum B΄, Limassol  
+> Overall GPA: 18.67 out of 20
 
 EMPLOYMENT HISTORY
 ------------------
